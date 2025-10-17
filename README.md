@@ -1,9 +1,9 @@
 # Student-Engagement-Data-Analytics-Project
 ## Project Objective
--This project examines causes of declining student interest in education. Using Excel, SQL, and Power BI, it analyzes demographic, social, and environmental factors to uncover insights and recommend strategies to improve student motivation and performance.
+- This project examines causes of declining student interest in education. Using Excel, SQL, and Power BI, it analyzes demographic, social, and environmental factors to uncover insights and recommend strategies to improve student motivation and performance.
 
 ## Data Set link Used
-[Dataset](https://github.com/Haywhydave/Coffee-Shop-Sales-Analysis/blob/main/coffeeOrdersData.xlsx)
+[Dataset](https://github.com/Haywhydave/Student-Engagement-Data-Analytics-Project/blob/main/educational_research_questionnaire_responses.xlsx)
 ## Questions (KPIs)
 1.	Find trends of total sales for each coffee type.
 2.	Generate a table or chart highlighting the top 10 customers based on their contribution to total sales.
