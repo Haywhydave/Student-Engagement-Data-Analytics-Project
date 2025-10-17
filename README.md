@@ -20,40 +20,39 @@
 - Microsoft Excel (Data Cleaning)
 - SQL (Data Analysis)
 - Power BI (Visualization and Insights)
-## Process
-- I Verified data for any missing values and anomalies and sorted out the same.
-- I made sure data is consistent and clean with respect to data type, data format and values used. - I created Pivot tables according to the questions asked.
-- I merged all pivot tables into one dashboard and applied slicers to make it dynamic.
 
+# Methodology and Data Collection
+## Data Source
+A structured Google Survey Form was designed and the link was shared online among students across various educational levels. The questionnaire covered demographic information, study habits, financial challenges, learning preferences, mentorship, and mental health.
 
+## Survey Instrument
+The questionnaire was designed to capture responses across six key domains:
 
+- Demographics: Age, Gender, Education Level (for segmentation).
+- Academic Outcome: Current Academic Grade, Study Hours (as dependent variables).
+- Learning Environment: Likert scale questions on teaching clarity, peer support, and resource adequacy.
+- Personal/External Challenges: Scales for financial stress, mental health impact, and access to resources.
+- Motivation: Core question on general interest level (Scale: 1-5).
+- Interventions: Questions on desired mentorship, use of stress services, and open-ended feedback.
+
+## Data Collection
+- Target Audience: Students across High School, Undergraduate, and Graduate levels.
+- Distribution Method: Distributed via social media student groups, whatsapp status and through personal messaging on whatsapp
+- Sample Size (n): 41responses
+- Collection Period: October 1, 2025 to October 2, 2025
 
 
 ## Dashboard
 ![student dash 1](https://github.com/user-attachments/assets/f1f602a1-4faf-4029-9301-2d552ee85d08)
 ![student dash 2](https://github.com/user-attachments/assets/59f2094a-5385-4b11-89d0-41d8d84c8006)
 
-
-## KEY INSIGHTS
-1.	Top Customers Drive Growth
-A small group of loyal customers significantly contributes to overall sales, showing the importance of building strong retention and loyalty programs.
-2.	Balanced Coffee Preferences
-Sales distribution among Ara. (26.67%), Rob. (24.73%), Lib. (24.05%), and Exc. (24.56%) shows no single coffee type dominates, indicating a diverse range of customer tastes.
-3.	Sales by Country Show Growth Opportunities
-Some countries account for higher sales volumes than others, suggesting expansion strategies can target underperforming regions to balance market reach.
-4.	Roast Type Influences Sales
-Dark roast varieties are consistently preferred, highlighting an opportunity to feature more dark roast options in promotions.
-5.	Customer Loyalty Matters
-Customers with loyalty cards tend to spend more, suggesting that investing in loyalty rewards can boost repeat purchases and overall sales.
-6.	Seasonal or Time-Based Trends
-Sales vary across months/years, showing patterns that can help plan promotions during peak and low-demand periods.
-7.	Top 10 Customers Highlight Personalization Value
-The top 10 customers contribute a sizable portion of total sales — personalized offers for them could further increase revenue.
+## Deliverables
+- Data File: Cleaned dataset in CSV format
+- SQL Queries: Containing all analytical computations
+- Power BI Dashboard: Interactive visual analysis
+- Documentation Report: Full report with methodology, findings, and recommendations
 
 
-• ## Recommendation
-- Boost top markets: Strengthen U.S. presence while growing sales in Ireland and the UK.
-- Reward loyalty: Nurture top customers with perks, exclusives, and tailored offers.
-- Promote variety: Encourage mix-and-match packs to tap into balanced coffee demand.
-- Grow small spenders: Engage mid-tier customers with targeted promos and education.
-- Act on insights: Use the dashboard for quick, data-driven business decisions.
+## Conclusion
+This project provides a data-driven understanding of the factors influencing students’ declining interest in education. The insights reveal that while students are clear about their career goals, challenges such as limited financial support, poor mentorship access, mental health struggles, and weak parental engagement hinder motivation and performance. By implementing the recommended interventions including mentorship programs, hybrid learning models, and improved financial and emotional support educational institutions can foster a more engaging, supportive, and inclusive learning environment.
+
