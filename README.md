@@ -5,11 +5,11 @@
 ## Data Set link Used
 [Dataset](https://github.com/Haywhydave/Student-Engagement-Data-Analytics-Project/blob/main/educational_research_questionnaire_responses.xlsx)
 ## Questions (KPIs)
-1.	Find trends of total sales for each coffee type.
-2.	Generate a table or chart highlighting the top 10 customers based on their contribution to total sales.
-3.	Find total sales by each country.
-4.	Find the total quantity ordered for each coffee type.
-5.	Add filtering options for roast type, loyalty card, year and size.
+1.	What are the main factors contributing to the decline in students’ interest in education?
+2. How do demographic variables (age, gender, education level) influence student motivation and academic performance?
+3. What is the relationship between learning environments (teaching style, facilities, peer influence) and student engagement?
+4. To what extent do personal and external challenges (financial stress, lack of resources, mental health) affect study habits and motivation?
+5. What strategies or interventions do students believe would improve their interest and performance in education?
 
 ## Dashboard Interaction
 [Dashboard](https://github.com/Haywhydave/Coffee-Shop-Sales-Analysis/blob/main/Dasboard(Coffee%20Sales).jpg)
