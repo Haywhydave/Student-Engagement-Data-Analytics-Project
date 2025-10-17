@@ -12,9 +12,14 @@
 5. What strategies or interventions do students believe would improve their interest and performance in education?
 
 ## Dashboard Interaction
-[Dashboard](https://github.com/Haywhydave/Coffee-Shop-Sales-Analysis/blob/main/Dasboard(Coffee%20Sales).jpg)
+[Dashboard 1](https://github.com/Haywhydave/Student-Engagement-Data-Analytics-Project/blob/main/student%20dash%201.jpg)
+[Dashboard 2](https://github.com/Haywhydave/Student-Engagement-Data-Analytics-Project/blob/main/student%20dash%202.jpg)
+
 ## Tools used
--	Excel (Power Query, PivotTables, Slicers).
+- Google Forms (Data Collection)
+- Microsoft Excel (Data Cleaning)
+- SQL (Data Analysis)
+- Power BI (Visualization and Insights)
 ## Process
 - I Verified data for any missing values and anomalies and sorted out the same.
 - I made sure data is consistent and clean with respect to data type, data format and values used. - I created Pivot tables according to the questions asked.
@@ -25,7 +30,10 @@
 
 
 ## Dashboard
- 
+![student dash 1](https://github.com/user-attachments/assets/f1f602a1-4faf-4029-9301-2d552ee85d08)
+![student dash 2](https://github.com/user-attachments/assets/59f2094a-5385-4b11-89d0-41d8d84c8006)
+
+
 ## KEY INSIGHTS
 1.	Top Customers Drive Growth
 A small group of loyal customers significantly contributes to overall sales, showing the importance of building strong retention and loyalty programs.
